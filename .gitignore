@@ -1,3 +1,5 @@
 /node_modules
 /map.json
 /package-lock.json
+*.mp3
+*.webm
